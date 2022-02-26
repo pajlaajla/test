@@ -1,0 +1,8 @@
+.section {
+    padding: 20px;
+    line-height: 1.5;
+}
+
+.section__paragraph {
+    margin: 0;
+}
